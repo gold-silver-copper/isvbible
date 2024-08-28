@@ -1,3 +1,15 @@
+VERBS
+pick_up podbrati/vzęti
+drop opustiti
+equip orųdovati
+wear naděti/ oblěkti/ oblåčiti / obuti sę (obuje)
+
+
+
+USEFUL WORDS
+equipment orųdovańje
+
+
 WEAPONS
 scepter   žezlo
 staff   posoh
@@ -26,6 +38,52 @@ fist    pęst́
 OTHER TOOLS
 net_snare sět́
 shield ščit
+bag     měšek
+bag2    torba
+bag3 vrěća
+
+
+CREATURES
+demon běs
+demon2 črt
+goblin kuker 
+werewolf vȯlkolak
+dragon drakon
+
+
+
+ANIMALS
+nutria nutria
+dragonfly strekoza
+dragonfly2 važka
+mouse myš
+titmouse sinica
+dormouse pȯlh
+rat krysa
+rat2 ščur
+fly muha
+squirrel veverica
+gopher suslik
+worm črvjak
+flying_bat netopyŕ
+
+
+
+
+
+FOOD
+bread hlěb
+gingerbread pŕnik
+bread_loaf bohanka (bohanka hlěba)
+soup polivka
+soup2 sup
+
+
+
+
+
+
+
 
 
 CLOTHES
@@ -158,8 +216,6 @@ cannabis_grass kanabis
 turnip rěpa  
 beetroot cvekla
 
-ANIMALS
-nutria nutria
 
 
 FURNITURE
@@ -182,4 +238,9 @@ Mechanics Ideas
 - Say prayers for some sort of buff
 - Items can break and have to be fixed using similar material  can melt down items of a material to create ingot of that material
 - Poison Arrows  sling bullets vs rocks
+- Agility bonus when carrying less things. Gain Agility with every step you take.
+- Strength bonus when more nutrition. Gain strength by walking with more heavy stuff
+- Intelligence bonus when more rested? Gain Intelligence by reading books and killing things.
+
+
 
