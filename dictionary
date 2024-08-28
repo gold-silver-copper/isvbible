@@ -1,0 +1,185 @@
+WEAPONS
+scepter   žezlo
+staff   posoh
+spear   kopje
+sword   meč
+knife   nož
+stick   kyj
+sickle sŕp
+flail cěp
+chain lancuh
+scythe kosa
+bow lųk
+sling   pråšča
+shovel lopata
+pitchfork vidla 
+axe sěkyra
+whip bič
+sabre sablja
+javelin oščěp
+dart drotik
+fist    pęst́
+
+
+
+
+OTHER TOOLS
+net_snare sět́
+shield ščit
+
+
+CLOTHES
+bracelet braslet
+bracelet2 narųčka
+bonnet čepec
+hood    kapjušon
+cloak   plašč
+shirt   košulja 
+cassock/robe    riza
+sandals     sandaly
+sock    škarpetka
+sock2 ponožka
+chain_mail koljčuga
+helmet šlěm
+helmet2 helma
+hat šapka
+hat2 klobuk
+dress suknja
+tail_coat frak
+armor brȯnja
+armor2 pancyŕ
+cloth plåtno
+cloth2 tkanina
+beads monisto
+veil    vualj
+shawl šal
+fur_coat kožuh
+belt_girdle pojas
+gown šata
+ring koljce
+ring2 pŕstenj
+
+
+THINGS
+stone   kamenj
+bullet  kulja
+arrow   strěla
+journal věstnik
+book    kniga
+mineral_ore ruda
+
+
+
+STATS
+health  zdråvje
+spirit  duh
+strength     sila
+speed   bystrost́
+intelligence     råzum
+
+BODY
+body tělo 
+flesh plȯt́ 
+head glåva
+leg noga
+foot stopa
+
+arm rųka
+hand dlånj
+
+
+METALS
+gold    zlåto
+silver srěbro
+copper  měd́
+iron želězo
+steel   stalj
+titanium    titan
+aluminum    aluminij
+bronze bronza
+tin cin
+lead olovo
+
+
+STONES
+ruby rubin 
+diamond diamant
+granite granit
+flint kremenj
+marble mramor
+basalt bazalt
+quartz kvarc
+amethyst    ametist 
+
+
+
+TREES
+oak     dųb
+bamboo  bambus
+elm brěst
+ash jasenj
+linden lipa
+apple jablånj
+guelder_rose kalina
+juniperberry jalovec
+chestnut kaštan
+chequers    brěk
+needle hvoja
+mulberry tutovo
+elderberry bȯzina
+olive maslina\olivka
+spruce jela
+birch brěza
+beech buk
+pine sosna
+
+BUSHES
+burning_bush  jasenėc    
+lingonberry brusnica    
+raspberry malina    
+blueberry črnica    
+cranberry kljukva    
+cranberry2 žuravina    
+strawberry jagoda    
+strawberry2 klubnika    
+blackberry ježina    
+blackberry2 kųpina    
+
+PLANTS
+cabbage kapusta 
+horseradish hrěn 
+sweet_potato batat  
+radish redkȯvka  
+potato kartofelj  
+normal_grass trava  
+needle_grass kovylj  
+tall_grass burjan  
+cannabis_grass kanabis  
+turnip rěpa  
+beetroot cvekla
+
+ANIMALS
+nutria nutria
+
+
+FURNITURE
+wall stěna
+table stol
+chair stul
+door dvėrj
+gate vråta
+loot_chest skrinja
+vase vaza
+
+
+
+
+
+
+
+Mechanics Ideas
+- Find random sharpening stone  sharpen metal weapon on it  get temporary damage boost
+- Say prayers for some sort of buff
+- Items can break and have to be fixed using similar material  can melt down items of a material to create ingot of that material
+- Poison Arrows  sling bullets vs rocks
+
