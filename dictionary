@@ -3,6 +3,7 @@ pick_up podbrati/vzęti
 drop opustiti
 equip orųdovati
 wear naděti/ oblěkti/ oblåčiti / obuti sę (obuje)
+oppress - gnobiti gnobęt
 
 
 
@@ -25,7 +26,7 @@ scythe kosa
 bow lųk
 sling   pråšča
 shovel lopata
-pitchfork vidla 
+pitchfork vidla
 axe sěkyra
 whip bič
 sabre sablja
@@ -47,7 +48,7 @@ bag3 vrěća
 CREATURES
 demon běs
 demon2 črt
-goblin kuker 
+goblin kuker
 werewolf vȯlkolak
 dragon drakon
 
@@ -93,7 +94,7 @@ bracelet2 narųčka
 bonnet čepec
 hood    kapjušon
 cloak   plašč
-shirt   košulja 
+shirt   košulja
 cassock/robe    riza
 sandals     sandaly
 sock    škarpetka
@@ -137,8 +138,8 @@ speed   bystrost́
 intelligence     råzum
 
 BODY
-body tělo 
-flesh plȯt́ 
+body tělo
+flesh plȯt́
 head glåva
 leg noga
 foot stopa
@@ -161,14 +162,14 @@ lead olovo
 
 
 STONES
-ruby rubin 
+ruby rubin
 diamond diamant
 granite granit
 flint kremenj
 marble mramor
 basalt bazalt
 quartz kvarc
-amethyst    ametist 
+amethyst    ametist
 
 
 
@@ -193,28 +194,28 @@ beech buk
 pine sosna
 
 BUSHES
-burning_bush  jasenėc    
-lingonberry brusnica    
-raspberry malina    
-blueberry črnica    
-cranberry kljukva    
-cranberry2 žuravina    
-strawberry jagoda    
-strawberry2 klubnika    
-blackberry ježina    
-blackberry2 kųpina    
+burning_bush  jasenėc
+lingonberry brusnica
+raspberry malina
+blueberry črnica
+cranberry kljukva
+cranberry2 žuravina
+strawberry jagoda
+strawberry2 klubnika
+blackberry ježina
+blackberry2 kųpina
 
 PLANTS
-cabbage kapusta 
-horseradish hrěn 
-sweet_potato batat  
-radish redkȯvka  
-potato kartofelj  
-normal_grass trava  
-needle_grass kovylj  
-tall_grass burjan  
-cannabis_grass kanabis  
-turnip rěpa  
+cabbage kapusta
+horseradish hrěn
+sweet_potato batat
+radish redkȯvka
+potato kartofelj
+normal_grass trava
+needle_grass kovylj
+tall_grass burjan
+cannabis_grass kanabis
+turnip rěpa
 beetroot cvekla
 
 
@@ -242,6 +243,3 @@ Mechanics Ideas
 - Agility bonus when carrying less things. Gain Agility with every step you take.
 - Strength bonus when more nutrition. Gain strength by walking with more heavy stuff
 - Intelligence bonus when more rested? Gain Intelligence by reading books and killing things.
-
-
-
